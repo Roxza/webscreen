@@ -1,0 +1,22 @@
+{
+  "name": "webscreen",
+  "version": "1.0.1",
+  "description": "Take screenshots of websites.",
+  "main": "index.js",
+  "author": "Roxza#0002",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roxza/webscreen.git"
+  },
+  "keywords": [
+    "website",
+    "screenshot",
+    "capture"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "fs": "^0.0.1-security",
+    "webscreen": "^1.0.1"
+  }
+}
