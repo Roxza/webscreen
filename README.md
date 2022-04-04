@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/roxza/webscreen?color=888BFF)](https://github.com/roxza/webscreen/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues-raw/roxza/webscreen)](https://github.com/roxza/webscreen/issues)
 
-[![NPM Info](https://nodei.co/npm/image-random.png?downloads=true&stars=true)](https://www.npmjs.com/package/image-random)
+[![NPM Info](https://nodei.co/npm/webscreen.png?downloads=true&stars=true)](https://www.npmjs.com/package/webscreen)
 
 <h1 align="center">💻 Website Screenshot</h1>
 <h6 align="center">Developed with ❤️ by Roxza</h6>
